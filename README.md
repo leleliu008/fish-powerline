@@ -1,4 +1,4 @@
-<img src="img/logo.png" align="left" width="144px" height="144px" style="margin-right: 20px"/>
+<img src="img/logo.png" align="left" width="144px" height="144px" style="border: 1px solid gray; margin-right: 20px"/>
 
 #### fish-powerline
 > [powerline-shell](http://blog.fpliu.com/it/software/powerline-shell) wrapper for [Oh My Fish][omf-link].
