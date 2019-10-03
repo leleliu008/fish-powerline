@@ -17,7 +17,7 @@ $ pip install powerline-shell
 ```
 2、use [omf](http://blog.fpliu.com/it/software/oh-my-fish#omf) to install this theme:
 ```fish
-$ omf install powerline
+$ omf install powerline-fish
 ```
 
 ## Screenshot
